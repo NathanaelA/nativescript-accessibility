@@ -5,7 +5,8 @@
 # nativescript-accessibility
 Add full accessibility to the NativeScript framework
 
-WARNING: The code is NOT on NPM yet, the code is only available to Patreon supporters.
+**WARNING:** The code is NOT on NPM yet, the code is only available to Patreon supporters.
+THIS is on NPM to be used as a Placeholder so that this plugin does have a home when it is finally released.
 
 ## License
 
@@ -17,7 +18,9 @@ I also do contract work; so if you have a module you want built for NativeScript
 [![Patreon](https://img.shields.io/badge/Pledge-Patreon-brightgreen.svg?style=plastic)](https://www.patreon.com/NathanaelA)
 
 
-## Installation 
+## Installation
+
+Download from the patreon link
 
 tns plugin add nativescript-accessibility-1.0.0.tgz
 
