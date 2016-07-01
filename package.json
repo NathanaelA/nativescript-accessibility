@@ -1,0 +1,32 @@
+{
+  "name": "nativescript-accessibility",
+  "version": "1.0.0",
+  "description": "A NativeScript module for basic accessibility usage",
+  "main": "accessibility.js",
+  "nativescript": {
+	"platforms": {
+		"android": "1.6.0",
+		"ios": "1.6.0"
+	}
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nathanaela/nativescript-accessibility.git"
+  },
+  "keywords": [
+    "NativeScript", "accessibility", "screen reader"
+  ],
+  "author": {
+    "name": "Nathanael Anderson",
+    "email": "nathan@master-technology.com"
+  },
+  "license": {
+    "type": "PATRON",
+    "url": "https://github.com/nathanaela/nativescript-accessibility/blob/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/nathanaela/nativescript-accessibility/issues"
+  },
+  "homepage": "https://github.com/nathanaela/nativescript-accessibility",
+  "readmeFilename": "README.md"
+}
